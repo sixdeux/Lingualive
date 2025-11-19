@@ -1,0 +1,7 @@
+{
+  "name": "LinguaLive - AI Language Tutor",
+  "description": "A real-time voice conversational partner for language learning using Gemini Native Audio API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
